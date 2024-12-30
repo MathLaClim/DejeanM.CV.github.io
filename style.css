@@ -54,7 +54,10 @@ body {
             list-style-type: none;
             padding: 0;
         }
-
+        #Puce {
+            list-style-type: disc;
+            margin-left: 25px;
+        }
         .section ul li {
             margin-bottom: 10px;
         }
